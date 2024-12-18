@@ -29,7 +29,6 @@ Prerequisites
 Python 3.x installed on your machine.
 
 Basic understanding of running Python scripts.
-
 -
 
 Installation
@@ -37,6 +36,7 @@ Installation
 Clone this repository or download the script files.
 
 Ensure that Python is properly installed and configured on your system.
+-
 
 Running the Application
 
