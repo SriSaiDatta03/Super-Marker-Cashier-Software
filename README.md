@@ -8,6 +8,8 @@ The Supermarket Cashier Software is a robust Python application designed to stre
 ---
 
 Features ✨
+
+
 Product Entry: Easily add multiple products along with their respective quantities.
 
 Price Calculation: Automatically computes the subtotal for each product based on a predefined pricing structure.
