@@ -1,4 +1,5 @@
 Supermarket Cashier Software 🛒💼
+-
 ---
 
 Overview:
@@ -28,6 +29,8 @@ Prerequisites
 Python 3.x installed on your machine.
 
 Basic understanding of running Python scripts.
+
+-
 
 Installation
 
